@@ -1,0 +1,4 @@
+com\email\email_auto_reply_system\controller\EmailReplierController.class
+com\email\email_auto_reply_system\entity\EmailRequest.class
+com\email\email_auto_reply_system\EmailAutoReplySystemApplication.class
+com\email\email_auto_reply_system\service\EmailReplierService.class
